@@ -7,7 +7,6 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Notes](#notes)
-- [License](#license)
 
 ## Introduction
 The GitHub Login Test project automates the process of logging into GitHub.  
