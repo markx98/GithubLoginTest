@@ -44,7 +44,7 @@ It is useful for QA engineers, developers, and testers who want to validate auth
      ```
 
 2. **View the report**:
-   - After running the test, open the `report.html` file located in the `reports` folder to view the test results.
+   - After running the test, open the `report.html` 
 
 ## Project Structure
 ```bash
